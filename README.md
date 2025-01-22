@@ -23,13 +23,14 @@ Transaction Insights 🔢
 The dashboard provides a snapshot of total transactions (5095), and total quantity sold (13K), enabling quick performance evaluation and ensuring operational efficiency.
 
 Tools and Techniques Used:
+
 Power BI for Data Visualization: Utilized Power BI to design intuitive and interactive visuals, offering a detailed and user-friendly analysis of X-Mart's performance.
 Data Modeling & Transformation: Cleaned, transformed, and aggregated sales data from multiple sources to ensure data accuracy and meaningful insights.
 KPIs for Decision Making: Key metrics such as total sales, costs, profits, and product/brand-specific insights enable the management team to make informed decisions on sales strategies, resource allocation, and profitability improvements.
 
 Project Impact:
-This dashboard offers real-time insights into X-Mart’s business performance, enabling decision-makers to:
 
+This dashboard offers real-time insights into X-Mart’s business performance, enabling decision-makers to:
 Identify top-performing product categories and brands.
 Focus on high-performing regions for targeted marketing efforts.
 Make data-driven decisions to improve profitability and streamline operations.

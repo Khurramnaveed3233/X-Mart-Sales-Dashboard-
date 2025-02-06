@@ -29,7 +29,7 @@ The X-Mart Sales Dashboard provides a consolidated view of sales performance acr
 
     - Certain states may show higher sales for specific categories (e.g., winter apparel in northern states, beachwear in coastal regions).
  
-- **Opportunities:
+- **Opportunities:**
 
     - Underperforming states could benefit from targeted marketing campaigns or inventory adjustments.**
 

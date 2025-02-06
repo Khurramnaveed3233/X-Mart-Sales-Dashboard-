@@ -7,7 +7,7 @@ The X-Mart Sales Dashboard provides a consolidated view of sales performance acr
 # Key Insights
 
 - **Total Sales and Quantity by Category**
-- 
+
 - **Total Sales: $1.5M (aggregate for 2020–2022).**
 - **Category Performance:**
 
@@ -20,5 +20,21 @@ The X-Mart Sales Dashboard provides a consolidated view of sales performance acr
     - 2020: Potential spikes in essential goods due to pandemic-driven demand.
 
     - 2021–2022: Gradual recovery in non-essential categories (e.g., apparel, travel accessories) as restrictions eased.
+
+- **Total Sales by State
   
+    - Top-Performing States: Likely include densely populated or economically active regions (e.g., California, Texas, New York).
+
+- **Regional Preferences:**
+
+    - Certain states may show higher sales for specific categories (e.g., winter apparel in northern states, beachwear in coastal regions).
+ 
+- **Opportunities: Underperforming states could benefit from targeted marketing campaigns or inventory adjustments.**
+
+- **C. Yearly Comparison (2020 vs. 2021 vs. 2022)***
   
+   - 2020: Sales dominated by essentials; possible dip in discretionary spending.
+
+   - 2021: Gradual recovery in non-essential categories as consumer confidence improved.
+
+   - 2022: Potential normalization of trends, with balanced growth across categories.

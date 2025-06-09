@@ -2,7 +2,11 @@
 
 ![xmart](https://github.com/user-attachments/assets/f3982c27-e2a1-4320-a60b-04832d5840a8)
 
-The X-Mart Sales Dashboard provides a consolidated view of sales performance across categories and states for the years 2020–2022. Key metrics include Total Sales ($1.5M) and Total Quantity Sold, analyzed by product category and geographic distribution. Below is a detailed breakdown of insights derived from the dashboard.
+From 2020 to 2022, X-Mart operated in a highly competitive electronics market. To grow sustainably and profitably, the company needed to understand which categories, brands, and regions were driving results—and which weren’t. This dashboard was built to empower leadership with the right insights by combining product category trends, brand preferences, geographic performance, and financial summaries.
+
+It tells a clear story:
+
+"Where are we making money, which products are thriving, and which markets and brands need attention?"
 
 # Key Insights
 

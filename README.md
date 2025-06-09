@@ -1,4 +1,4 @@
-# X-Mart Sales Dashboard: Power BI Portfolio Project (2020-2022)
+# Uncovering Opportunities & Driving Profit through Sales Analytics (2020–2022)
 
 ![xmart](https://github.com/user-attachments/assets/f3982c27-e2a1-4320-a60b-04832d5840a8)
 

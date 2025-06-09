@@ -54,7 +54,7 @@ Insight: Sales campaigns and supplier negotiations should prioritize Intel, Sams
 
 - **Total Sales: 99M**
 
-- **Total Cost: 76M **
+- **Total Cost: 76M**
 
 - **Total Quantity Sold: 13K**
 

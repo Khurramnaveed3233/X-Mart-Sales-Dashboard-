@@ -4,8 +4,6 @@
 
 # 🛍️ X-Mart Sales Analysis Dashboard (2020–2022)
 
-![X-Mart Dashboard](./images/xmart_dashboard.jpg)
-
 ## 📊 Project Overview
 
 This project delivers an end-to-end sales performance dashboard for **X-Mart**, a multinational electronics retailer. The goal was to transform raw sales data from 2020 to 2022 into **actionable insights** using **Power BI**. The dashboard highlights critical KPIs such as total sales, profits, transactions, top-performing categories, regions, and brands.

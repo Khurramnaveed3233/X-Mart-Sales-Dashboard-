@@ -2,76 +2,121 @@
 
 ![xmart](https://github.com/user-attachments/assets/f3982c27-e2a1-4320-a60b-04832d5840a8)
 
-From 2020 to 2022, X-Mart operated in a highly competitive electronics market. To grow sustainably and profitably, the company needed to understand which categories, brands, and regions were driving results—and which weren’t. This dashboard was built to empower leadership with the right insights by combining product category trends, brand preferences, geographic performance, and financial summaries.
+# 🛍️ X-Mart Sales Analysis Dashboard (2020–2022)
 
-It tells a clear story:
+![X-Mart Dashboard](./images/xmart_dashboard.jpg)
 
-"Where are we making money, which products are thriving, and which markets and brands need attention?"
+## 📊 Project Overview
 
-# Key Business Problem:
+This project delivers an end-to-end sales performance dashboard for **X-Mart**, a multinational electronics retailer. The goal was to transform raw sales data from 2020 to 2022 into **actionable insights** using **Power BI**. The dashboard highlights critical KPIs such as total sales, profits, transactions, top-performing categories, regions, and brands.
 
-The main business problem was:
+This analysis simulates what a **Business Intelligence Analyst** would deliver to management for strategic decision-making.
 
-“Despite healthy sales, profit margins seemed stagnant across years, and decision-makers lacked clarity on which product lines or regions were underperforming or over-performing.”
+---
 
-Specific concerns included:
+## 🎯 Objectives
 
-- **Are we investing in the right product categories?**
+- Track overall revenue, cost, and profit across 3 years (2020–2022)
+- Identify top-performing product categories and brands
+- Analyze regional sales distribution across states
+- Highlight performance of individual supervisors
+- Provide executives with a one-page summary of all key metrics
 
-- **Which supervisors or regions are outperforming others?**
+---
 
-- **Which brands are contributing most to sales?**
+## 📁 Dataset Overview
 
-- **How can we optimize our cost-to-sales ratio?**
+**Source:** X-Mart's retail transaction data (fictional)  
+**Timeframe:** 2020 to 2022  
+**Columns Likely Included (inferred):**
+- `Transaction_ID`
+- `Supervisor`
+- `Product_Category`
+- `Brand`
+- `State`
+- `Quantity`
+- `Total_Sales`
+- `Cost`
+- `Profit`
 
-# 💡 Insights Extracted from the Dashboard:
+---
 
-1. Category Performance (Top Center Bar Chart):
+## 🧰 Tools Used
 
-- **Monitors, Mouse, and CPU are the top 3 categories in terms of quantity and sales, with Monitors leading at 1843 units.**
+- 🛢️ **Power BI Desktop** – for data modeling & visualization  
+- 📊 **DAX (Data Analysis Expressions)** – for creating KPIs and custom calculations  
+- 📂 **Excel / CSV files** – assumed data source  
+- 🧠 **Descriptive Analytics** – to summarize performance and trends
 
-- **Lower-performing categories include Printer, NIC, and Computer Case, which might be considered for product line reviews or phase-outs.**
+---
 
-Insight: Focus marketing and inventory efforts on high-performing categories while reviewing the profitability of low-selling items.
+## 📈 Key Metrics Displayed
 
-2. Geographic Trends (Map - Bottom Left):
+| Metric             | Value         | Description                                 |
+|--------------------|---------------|---------------------------------------------|
+| **Total Sales**    | 99M           | Total revenue across all years              |
+| **Total Cost**     | 76M           | Total procurement or operational costs      |
+| **Total Profit**   | 23M           | Net gain over the period                    |
+| **Total Quantity** | 13K           | Units sold                                  |
+| **Transactions**   | 5,095         | Individual sales entries                    |
 
-- **Sales are concentrated in South India, Maharashtra, and Delhi NCR.**
+---
 
-- **Some regions appear to have low or no sales activity, possibly indicating untapped markets or poor coverage.**
+## 📊 Dashboard Visuals & Insights
 
-Insight: There’s an opportunity to expand presence in low-activity states while investing more in the regions showing high potential.
+### 1. 📦 **Total Sales by Category**
+- **Top Categories**: Monitor, Mouse, CPU, Graphic Card
+- These accounted for the highest revenue – suggesting core product focus.
 
-3. Brand Contribution (Pie Chart - Bottom Right):
+### 2. 🌍 **Sales Distribution by State**
+- Major sales hubs appear across Indian cities such as Mumbai, Delhi, Bangalore, and Hyderabad.
+- Geographic visual highlights **regional demand** and potential for area-specific campaigns.
 
-- **Intel (19%), Samsung (16%), and Dell (14%) lead in brand-based sales.**
+### 3. 🏷️ **Sales by Brand**
+- **Top 3 Brands**:
+  - Intel – 19%
+  - Samsung – 16%
+  - Dell – 14%
+- Indicates customer preference for top tech brands; useful for inventory planning and marketing.
 
-- **Brands like Seagate (3%) and Hynix (5%) contribute the least.**
+### 4. 👥 **Supervisor Panel**
+- Sidebar panel allows users to **filter KPIs and visuals by supervisor**.
+- Enables performance comparison across sales managers (e.g., Adil Khan, Danish Saeed, etc.)
 
-Insight: Sales campaigns and supplier negotiations should prioritize Intel, Samsung, and Dell. Underperforming brands need assessment for strategic fit or replacement.
+---
 
-4. Key Metrics (Right Sidebar):
+## 💡 Business Insights
 
-- **Total Sales: 99M**
+1. **Core Revenue Drivers**  
+   - Focus on monitors, GPUs, and CPUs — high-ticket items leading sales.
 
-- **Total Cost: 76M**
+2. **Brand Loyalty & Recognition**  
+   - Intel and Samsung dominate brand preferences — leverage in promotions and partnerships.
 
-- **Total Quantity Sold: 13K**
+3. **Regional Sales Hotspots**  
+   - Major Indian metro cities contribute bulk of revenue — prioritize logistics and advertising in these regions.
 
-- **Transactions: 5095**
+4. **Supervisor Impact**  
+   - Supervisors can be evaluated and incentivized based on territory-level sales performance.
 
-- **Profit: 23M**
+---
 
-Insight: A healthy profit margin of approx. 23% indicates good pricing control but also suggests potential to improve it by managing cost-heavy items.
+## 📌 Strategic Recommendations
 
-5. Supervisor Performance (Left Panel):
-Although individual metrics per supervisor are not visualized in detail, this setup implies potential for drilling down by supervisor, helping assess who needs support or training.
+| Area               | Recommendation                                               |
+|--------------------|--------------------------------------------------------------|
+| 🛒 Inventory        | Prioritize stock for top-selling categories & brands         |
+| 📍 Geography        | Increase regional marketing in high-performing states        |
+| 🤝 Vendor Strategy  | Negotiate better margins with top brands (Intel, Samsung)    |
+| 👨‍💼 Sales Management | Use supervisor data to reward or retrain underperformers     |
+| 🧾 Reporting         | Automate monthly reports using this dashboard template      |
 
-Insight: Future versions could benefit from per-supervisor KPIs (e.g., sales volume, region, returns).
+---
 
-# In Nutshell :
+## 📁 Project Files
 
-Our dashboard reveals that while total sales and profits are strong, there is a concentration in specific product categories, regions, and brands. By reallocating efforts toward high-performing segments and reevaluating underperforming ones, we can drive better growth and profitability in the next fiscal cycle.
+
+
 
 
 
